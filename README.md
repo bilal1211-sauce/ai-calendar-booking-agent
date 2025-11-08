@@ -12,23 +12,8 @@ An intelligent AI-powered agent that books appointments in Google Calendar using
 
 ## 🚀 Quick Start
 
-### Option 1: Deploy on CodeWords (Recommended)
 
-1. **Visit CodeWords**: [https://codewords.agemo.ai](https://codewords.agemo.ai)
-
-2. **Connect Google Calendar**:
-   - Visit [CodeWords Integrations](https://codewords.agemo.ai/account/integrations)
-   - Search for "Google Calendar"
-   - Click "Connect" and authorize access
-
-3. **Deploy the service**:
-   - Create a new service
-   - Upload `ai_calendar_booking_agent.py`
-   - Deploy!
-
-4. **Start booking appointments**!
-
-### Option 2: Run Locally (Development)
+ Run Locally (Development)
 
 #### Prerequisites
 - Python 3.11
@@ -225,10 +210,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
-- **CodeWords Documentation**: [https://codewords.agemo.ai](https://codewords.agemo.ai)
 - **Issues**: Open an issue on GitHub
-- **Questions**: Contact via CodeWords platform
+- **Questions**: Contact via Github platform
 
 ---
 
-**Built with ❤️ using [CodeWords](https://codewords.agemo.ai)**
+**Built with ❤️ Kabutarbaz**
